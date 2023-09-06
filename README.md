@@ -17,3 +17,5 @@ list of points
 6. unit test.
 7. integration testing.
 8. performance testing.
+9. intending (spacing),
+10. Naming convention,
